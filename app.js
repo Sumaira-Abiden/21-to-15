@@ -6,7 +6,7 @@
 
 
 //Q2
-// let userModel = prompt("Enter your fvrt model")
+// let    userModel = prompt("Enter your fvrt model")
 // let userInput = userModel.length
 // console.log(`My favourite phone is ${userModel} length of string is ${userInput} `);
 
